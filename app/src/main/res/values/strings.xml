@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Convertidor</string>
+
+    <string-array name="unidades">
+        <item>Longitud</item>
+        <item>Masa</item>
+        <item>Tiempo</item>
+    </string-array>
+
+    <string-array name="longitud">
+        <item>Kilómetro</item>
+        <item>Metro</item>
+        <item>Centrímetro</item>
+        <item>Milímetro</item>
+    </string-array>
+
+    <string-array name="masa">
+        <item>Kilogramo</item>
+        <item>Gramo</item>
+        <item>Miligramo</item>
+    </string-array>
+
+    <string-array name="tiempo">
+        <item>Día</item>
+        <item>Hora</item>
+        <item>Minutos</item>
+        <item>Segundos</item>
+    </string-array>
+
 </resources>
